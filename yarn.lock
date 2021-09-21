@@ -45,9 +45,9 @@
     buffer "~6.0.3"
 
 "@solana/web3.js@^1.17.0":
-  version "1.29.0"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.29.0.tgz#61cb40e2190f13ae8084d20012cb81f8fade78fa"
-  integrity sha512-5427ZZ7l34xdf07EU6e/8IDQ0gr87lMAU+6UHGrlmOp+lhM39rwN6RmRoOiQYailH15TM5pM3YeQO8KZXEOMIA==
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.28.0.tgz#66a2ea14a892d53768ae23798a3f92df982c56fb"
+  integrity sha512-9sCXVVsRNR8MO4Ww3yyTYLXqNmpz7qX0wVeKHpwYtLTzKh3inncGOniYwpYPFRwEo8ivh0Q+c/GM2EnUHOviRg==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@solana/buffer-layout" "^3.0.0"
@@ -93,9 +93,9 @@
   integrity sha512-vv0CAYoaEjCw/mLy96GBTnRoZrSxkGE0BKzKimdR8P3OzrNYNvBgtW7p055A+E8C31vXNUhWKoFCbhq7gbyhFg==
 
 "@types/node@*":
-  version "16.9.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.9.4.tgz#a12f0ee7847cf17a97f6fdf1093cb7a9af23cca4"
-  integrity sha512-KDazLNYAGIuJugdbULwFZULF9qQ13yNWEBFnfVpqlpgAAo6H/qnM9RjBgh0A0kmHf3XxAKLdN5mTIng9iUvVLA==
+  version "16.9.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.9.3.tgz#92230abb80a66beb10236e78a51cd9e6396f4489"
+  integrity sha512-5UmMznRvrwKqisJ458JbNoq3AyXHxlAKMkGtNe143W1SkZ1BVgvCHYBzn7wD66J+smE+BolqA1mes5BeXlWY6w==
 
 "@types/node@^12.12.54":
   version "12.20.25"

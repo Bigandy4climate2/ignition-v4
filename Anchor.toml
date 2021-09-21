@@ -1,12 +1,12 @@
 [programs.localnet]
-ignition_v4 = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+v4 = "HnDBqeMc6mTHaVpBXSRk2VXvZJ63Zusr6g774Qb5wksM"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
 cluster = "localnet"
-wallet = "/home/nuhutuh25/.config/solana/id.json"
+wallet = "~/.config/solana/id.json"
 
 [scripts]
 test = "mocha -t 1000000 tests/"
